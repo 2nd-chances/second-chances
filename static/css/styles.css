@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;600;700;800&display=swap');
+
+body {
+    font-family: "Tamma", cursive !important;
+    font-weight: 500;
+    background-color: #FFFDFC;
+}
+
+/* NAV */
+
+.navbar i {
+    font-size: 40px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    color:#FFCC81;
+}
+
+.navbar h1{
+    color:#3C424C !important;
+    font-size: 30px;
+}
+
+.nav-link {
+    color:#4D617A !important;
+}
